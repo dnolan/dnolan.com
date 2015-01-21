@@ -1,0 +1,2 @@
+[18-Mar-2005 19:59:14] PHP Warning:  main(../../../footer.minimal.inc.php): failed to open stream: No such file or directory in /home/dnolan/public_html/code/js/rollover/index.php on line 50
+[18-Mar-2005 19:59:14] PHP Warning:  main(): Failed opening '../../../footer.minimal.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dnolan/public_html/code/js/rollover/index.php on line 50
